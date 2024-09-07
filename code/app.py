@@ -5,6 +5,7 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 
+
 # Load and clean data
 df = pd.read_csv('ALLDATA.csv')
 df.replace('na', pd.NA, inplace=True)
@@ -119,6 +120,15 @@ app.layout = dbc.Container([
     ])
 ], fluid=True)  # Ensure the container is fluid
 
+# Deploy local port to internet. WARNING: Temporary only. This is a major security risk.
+# For proper development, set up actual server. This is only for competition judging.
+"""from pyngrok import ngrok
+def start_ngrok():
+    ngrok_tunnel = ngrok.connect(8050)
+    print(' * Tunnel URL:', ngrok_tunnel.public_url)"""
+
 # Run the app
 if __name__ == '__main__':
     app.run_server(host='0.0.0.0', port=8050)
+    #start_ngrok()
+    #app.run_server(debug=True, port=8050, use_reloader=False)
