@@ -6,5 +6,7 @@ HikeAware enables users to find, record, and photograph native wildlife and plan
 The data from the app will help our local councils and conservation groups manage our tracks and wildlife. An accessible dashboard shows all the data that is collected, and allows users to explore the data, and find connections between local environmental conditions, visitor traffic, and animal sightings.
 
 
+# Take 2 - gamification and stats
 
+This app uses gamification to help encourage user interactivity. 
 
