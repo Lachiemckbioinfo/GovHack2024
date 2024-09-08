@@ -1,0 +1,12 @@
+Script 
+
+The Sunshine Coast is home to beautiful walks and bike tracks with a diverse range of plants and animals. These
+
+We have entered into a data age, where we can use real-time data to closely manage our environment and daily activities. By leverage a wide array of Internet of Things sensors, as well as citizen science, we are able to monitor our wonderful native habitats and manage our local ecosystems.
+
+HikeAware enables users to find, record, and photograph native wildlife and plants, and awards the user points as they collect images of all the animals and plants in their local area. Collect images of all the native wildlife, and compare with your friends! By doing this, you can contribute to citizen science, and help the local council and conservation groups manage our local ecosystems by collating data both from these sightings, as well as a wide range of sensors used to track the weather, visitor numbers, and other ecosystem health statistics. This is also fed back into the app, which can then recommend the best times to go to specific walks in order to find different animals, based both on time of day and various weather conditions.
+The app also boasts a range of other functions. View local wildlife news and alerts, explore the range of different animals
+
+This data can be accessed through an interactive dashboard that shows users a wide range of comparisons
+
+
