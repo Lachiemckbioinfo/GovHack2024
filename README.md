@@ -18,6 +18,7 @@ We are utilising the following datasets:
 + Mary Cairncross Scenic Reserve NCount WiFi Counter
 + Mary Cairncross Scenic Reserve Atmos Weather Station
 + Mary Cairncross Scenic Reserve Milesight Occupancy Counter
++ Mary Cairncross Scenic Reserve SMT100a Soil Moisture Sensor
 + Sugar Bag Road Recreation Reserve Atmos Weather Station
 + Sugar Bag Road Recreation Reserve Farmo PIR Counter
 
